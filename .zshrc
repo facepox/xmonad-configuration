@@ -109,6 +109,7 @@ alias xbcfg="vim ~/.xmobarrc"
 alias xr="xmonad --recompile && xmonad --restart"
 alias descrot="rm -rf *scrot*"
 alias myip="curl ipinfo.io/ip"
+alias addall="git add --all"
 
 #vi mode
 bindkey -v
