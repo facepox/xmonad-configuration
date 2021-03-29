@@ -1,0 +1,5 @@
+#!/bin/bash
+#compton -bG --opacity-rule 75:'class_g *= "XTerm"'
+feh --bg-scale ~/.bg
+xsetroot -cursor_name left_ptr
+
