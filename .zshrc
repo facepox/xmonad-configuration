@@ -113,3 +113,6 @@ alias addall="git add --all"
 
 #vi mode
 bindkey -v
+
+#syntax highlighting
+source ~/.scripts/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh
